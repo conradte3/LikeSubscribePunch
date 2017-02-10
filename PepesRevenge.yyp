@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "10390926-2a54-4e15-a0ba-082c2fb181a9",
+            "Value": {
+                "id": "bfbd2195-010f-48e8-a6c4-d75117f1cfde",
+                "resourcePath": "rooms\\rm_store\\rm_store.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "111ae0ea-731a-4eef-b8ab-126d9142f4a3",
             "Value": {
                 "id": "1a2e44c1-ee71-4d37-942a-790eb6eaba4d",
@@ -103,6 +111,14 @@
             }
         },
         {
+            "Key": "38e327ec-f136-4e3e-8d14-b38520dd1967",
+            "Value": {
+                "id": "698faf57-67a8-495d-abc3-b6c26f20f4de",
+                "resourcePath": "objects\\obj_store_button_parent\\obj_store_button_parent.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "411bf4c7-af4a-404e-a298-35e026bb5e25",
             "Value": {
                 "id": "03fc7ea3-0ecf-4ba5-86bb-86ed38177879",
@@ -172,6 +188,14 @@
                 "id": "6d3996c9-7977-4b2f-b88d-68a713df9a29",
                 "resourcePath": "views\\9c730d8b-a2d9-4c6b-bcc9-320444aa7d0c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9fe307b3-56f3-4b5f-a29e-c51c8c2e24e0",
+            "Value": {
+                "id": "7f96d8a3-6837-4be7-8935-1fbc1445aeea",
+                "resourcePath": "objects\\obj_player_stats\\obj_player_stats.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -316,6 +340,14 @@
                 "id": "f7cb8098-4a35-4c91-b3ff-e1b7729c576b",
                 "resourcePath": "rooms\\rm_menu\\rm_menu.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "f67b1981-da65-4e18-aff2-0b525523574d",
+            "Value": {
+                "id": "083803cb-d63f-445f-9af7-b930ff3472c6",
+                "resourcePath": "scripts\\scr_punch\\scr_punch.yy",
+                "resourceType": "GMScript"
             }
         },
         {
