@@ -1,3 +1,3 @@
-/// @description Insert description here
+/// @description Start screen shake
 
 shake = 10;

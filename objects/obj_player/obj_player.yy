@@ -1,28 +1,28 @@
 {
-    "id": "37d5748c-8039-497b-a9f9-e6beb27b44cb",
+    "id": "a3f93ce9-fb86-4fe5-bf87-3217df1d8389",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_liquid_nazi_daddy",
+    "name": "obj_player",
     "eventList": [
         {
-            "id": "6ceadbf5-e62f-4509-823f-865201e17849",
+            "id": "d66c4c3c-d4c5-4a0e-b617-92697e726200",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "a3f93ce9-fb86-4fe5-bf87-3217df1d8389"
+        },
+        {
+            "id": "b301a4d0-772d-4c36-b785-0e9a502c2ddd",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "37d5748c-8039-497b-a9f9-e6beb27b44cb"
-        },
-        {
-            "id": "b88aebec-769b-443f-a98e-22498a024160",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "37d5748c-8039-497b-a9f9-e6beb27b44cb"
+            "m_owner": "a3f93ce9-fb86-4fe5-bf87-3217df1d8389"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -34,13 +34,13 @@
     "physicsGroup": 0,
     "physicsKinematic": false,
     "physicsLinearDamping": 0.1,
-    "physicsObject": true,
+    "physicsObject": false,
     "physicsRestitution": 0.1,
     "physicsSensor": false,
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "solid": true,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "solid": false,
+    "spriteId": "2c6801e1-921d-428b-a8ac-7885b16409fb",
     "visible": true
 }
