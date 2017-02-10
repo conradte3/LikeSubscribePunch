@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "37d5748c-8039-497b-a9f9-e6beb27b44cb",
+            "Value": {
+                "id": "5501b5d9-b593-4dcc-9d24-86b8341bc610",
+                "resourcePath": "objects\\obj_liquid_nazi_daddy\\obj_liquid_nazi_daddy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "411bf4c7-af4a-404e-a298-35e026bb5e25",
             "Value": {
                 "id": "03fc7ea3-0ecf-4ba5-86bb-86ed38177879",
@@ -148,6 +156,14 @@
                 "id": "fae701dd-2e6f-4210-82c2-d1c82045775a",
                 "resourcePath": "views\\75530d42-4521-47da-836f-062f14146b20.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "87fa573a-66d2-4c40-8133-f2c57d3ae8e0",
+            "Value": {
+                "id": "9c456ed5-d517-450a-bc53-d9740af11390",
+                "resourcePath": "sprites\\spr_water\\spr_water.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
