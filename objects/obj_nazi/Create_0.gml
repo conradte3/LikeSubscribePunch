@@ -1,7 +1,7 @@
 /// @description Initialize
 
-punch_force_x = 100;
-punch_force_y = -200;
+punch_force_x = 15;
+punch_force_y = -20;
 
 phy_fixed_rotation = true;
 

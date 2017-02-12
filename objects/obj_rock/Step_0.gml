@@ -1,6 +1,5 @@
 /// @description Update spacing
 
-spacing = cam_w
-variation_x = cam_w
-
+spacing = max(cam_w, room_width*2);
+variation_x = spacing;
 event_inherited();

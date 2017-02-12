@@ -2,9 +2,9 @@
 
 punching = false;
 grounded = false;
-spd = 500;
+spd = 200;
 
-jump_force = -400;
+jump_force = -75;
 
 
 

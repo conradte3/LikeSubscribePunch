@@ -3,7 +3,7 @@
 //x += spd * (keyboard_check(vk_right) - keyboard_check(vk_left));
 //y += spd * (keyboard_check(vk_down) - keyboard_check(vk_up));
 
-var input = keyboard_check(vk_right);// - keyboard_check(vk_left);
+var input = keyboard_check(vk_right) - keyboard_check(vk_left);
 
 if (input != 0) {
 	physics_apply_force(x, y, spd*input, 0);

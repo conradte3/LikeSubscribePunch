@@ -2,6 +2,6 @@
 
 spacing = cam_w
 variation_x = cam_w
-variation_y = cam_w / 4;
+variation_y = 0;
 
 event_inherited();
