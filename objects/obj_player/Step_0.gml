@@ -22,4 +22,4 @@ if (punching) {
 	image_index = 3;
 }
 
-
+physics_apply_force(x, y, 0, 100);

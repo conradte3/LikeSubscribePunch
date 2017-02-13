@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "0ab267be-7e91-4ebf-b525-e9864a290ade",
+            "Value": {
+                "id": "13dacea3-9243-45b8-bcf4-ad03fefdc692",
+                "resourcePath": "fonts\\font_pixel_large\\font_pixel_large.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "10390926-2a54-4e15-a0ba-082c2fb181a9",
             "Value": {
                 "id": "bfbd2195-010f-48e8-a6c4-d75117f1cfde",
@@ -186,7 +194,7 @@
             "Key": "45f596a7-2c64-4371-ac9e-0549637de296",
             "Value": {
                 "id": "e66367d2-310b-4c42-9d21-c5ab6fe970db",
-                "resourcePath": "objects\\obj_rock\\obj_rock.yy",
+                "resourcePath": "objects\\obj_obstacle_parent\\obj_obstacle_parent.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -239,6 +247,14 @@
             }
         },
         {
+            "Key": "6858de06-8a2a-4034-a355-6529a80916e1",
+            "Value": {
+                "id": "7592a047-3bad-406f-9b0c-90b79ded9b58",
+                "resourcePath": "objects\\obj_rock\\obj_rock.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6cb78259-f8d9-4338-87f1-bf88a6f3f248",
             "Value": {
                 "id": "6ba3ba04-954c-4e4a-9369-187cf7990808",
@@ -266,7 +282,7 @@
             "Key": "7955e225-2c3c-42a8-a4eb-318c6121bb9e",
             "Value": {
                 "id": "a299fb00-2527-4b73-bafa-b9ae461680a7",
-                "resourcePath": "fonts\\font_0\\font_0.yy",
+                "resourcePath": "fonts\\font_pixel\\font_pixel.yy",
                 "resourceType": "GMFont"
             }
         },
@@ -428,6 +444,14 @@
                 "id": "c27ebd9c-92ea-4063-81f2-b26c26a5fdaa",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cca14398-f5ef-46ce-9d7a-8101416607bf",
+            "Value": {
+                "id": "0a5b1fa7-d1e7-49f7-9493-ffb05c77ecee",
+                "resourcePath": "objects\\obj_goose\\obj_goose.yy",
+                "resourceType": "GMObject"
             }
         },
         {
